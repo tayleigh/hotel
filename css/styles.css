@@ -379,6 +379,7 @@ nav ul li a:hover {
 }
 nav li.active a {
   color: #6F4930;
+  font-weight: 500;
 }
 
 .moveOver #hamburgerBtn::before {
