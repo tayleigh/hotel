@@ -335,7 +335,7 @@ header {
 header span {
   font-size: 1.6rem;
   font-weight: 500;
-  color: #56903A;
+  color: #275411;
 }
 
 /* --------------------------- NAVIGATION STUFF GOES HERE --------------------------- */
@@ -372,7 +372,7 @@ nav ul li a {
   text-align: right;
   border-bottom: 1px rgba(0, 0, 0, 0.25) solid;
   text-decoration: none;
-  color: #56903A;
+  color: #275411;
 }
 nav ul li a:hover {
   background-color: rgba(0, 0, 0, 0.1);
@@ -428,7 +428,7 @@ nav li.active a {
 }
 #cards section a {
   grid-area: phone;
-  background-color: #C56C39;
+  background-color: #7a3914;
   text-align: center;
   text-decoration: none;
   padding: 5px;
@@ -455,7 +455,7 @@ main p {
 
 /* --------------------------- FOOTER --------------------------- */
 #footerWrapper {
-  background-color: #56903A;
+  background-color: #275411;
 }
 
 footer {
